@@ -1,0 +1,10 @@
+HI good day i was editing Marlin through Atom and want to compile for my 32-bit LPC1768 board however upon compiling i get
+erors,i think it has to do with my libraries, when i itry platformio_update everything is updated except for the part whihc says "Detached"
+im realy new to plaformio, thank you
+
+Platform NXP Arduino LPC176x
+--------
+Updating nxplpc-arduino-lpc176x          @ 0.1.0          [Detached]
+Updating toolchain-gccarmnoneeabi        @ 1.80201.190214 [Up-to-date]
+Updating framework-arduino-lpc176x       @ 0.1.3          [Up-to-date]
+Updating tool-pyocd                      @ 0.801.0        [Up-to-date]
